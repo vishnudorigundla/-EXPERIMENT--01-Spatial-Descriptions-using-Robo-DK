@@ -128,13 +128,20 @@ def Prog1():
   # Not defined
   # End of main program  
 ~~~
+### Tree:
+
+![OUTPUT](img01.png)
+
 ### COORDINATES OF THE MOVEMENTS: 
+![OUTPUT](img02.png)
+![output](img03.png)
 
-https://github.com/Adithya-Siddam/-EXPERIMENT--01-Spatial-Descriptions-using-Robo-DK/raw/main/img01.png
 
 
+### RESULTS :
+The Robot DK software for spatial descriptions has been understood clearly.
 
-### SIMULATION RESULTS :
+
 
 
 
